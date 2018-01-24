@@ -1,0 +1,22 @@
+2016-04-30 18:28:27
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 16, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 1202, in run
+  File "./os.py", line 269, in makedirs
+PermissionError: [Errno 13] Permission denied: '/var/www/'
+2016-05-10 19:31:13
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 16, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2057, in run
+  File "./shutil.py", line 478, in rmtree
+  File "./shutil.py", line 360, in _rmtree_unsafe
+  File "./shutil.py", line 358, in _rmtree_unsafe
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/3053851/Documents/red2fred2 in network/CommodityTrader.app/'
+2016-05-10 19:31:13
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 16, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 2057, in run
+  File "./shutil.py", line 478, in rmtree
+  File "./shutil.py", line 360, in _rmtree_unsafe
+  File "./shutil.py", line 358, in _rmtree_unsafe
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/3053851/Documents/red2fred2 in network/CommodityTrader.app/'
